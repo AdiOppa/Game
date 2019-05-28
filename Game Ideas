@@ -1,0 +1,13 @@
+Name: Light Fighters
+
+Game Mechanics: 
+ - Fast paced CTF/DM 
+ - Set in the dark
+ - 3D Multilevel maps
+ - Controls (customisable)
+    - wasd for up, left, down, right respectively
+    - eq for pitch right, pitch left
+    - shift for light on/off
+    - Space to shoot
+    - op for next/previous weapon
+  - There is no way to speed up or slow down, each vehicle has it's own preset speed, agility/handling, weapons, ammo, light brightness
